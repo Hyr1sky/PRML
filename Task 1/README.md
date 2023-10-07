@@ -11,8 +11,8 @@ Solving a problem with publicly available dataset using liner regression models.
 ## Tasks:
 
 Let's try some real classic problems.
-- (Kaggle House Price Prediction)[https://github.com/Hyr1sky/PRML/blob/main/Task%201/KaggleHousePrice.ipynb]
-- (Titanic(DNF))[https://github.com/Hyr1sky/PRML/blob/main/Task%201/Titanic(DNF).ipynb]
+- [Kaggle House Price Prediction](https://github.com/Hyr1sky/PRML/blob/main/Task%201/KaggleHousePrice.ipynb)
+- [Titanic(DNF)](https://github.com/Hyr1sky/PRML/blob/main/Task%201/Titanic(DNF).ipynb)
 
 ## Conc:
 
