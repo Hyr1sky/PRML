@@ -4,6 +4,13 @@
 For each assignments, solutions are provided as a `Ipython Notebook`.\
 I have already wrote a sklearn version of these basic models, so I will only provide an uncommented version.
 
+## Attention:
+
+The assignment for Task 1 requires you to download the d2l package, which is a deep learning toolkit developed by Li Mu and others.\
+Here you can download the `whl`. ([portal here](https://www.cnpython.com/pypi/d2l/dl-d2l-0.15.1-py3-none-any.whl))\
+Then you need to put it into your `site_packages` and use your package manager (like `pip` or `conda`) to install it.\
+And you are done ^W^.
+
 ## Note:
 
 Solving a problem with publicly available dataset using liner regression models.
