@@ -13,6 +13,7 @@ Solving a problem with publicly available dataset using liner regression models.
 Let's try some real classic problems.
 - [Kaggle House Price Prediction](https://github.com/Hyr1sky/PRML/blob/main/Task%201/KaggleHousePrice.ipynb)
 - [Titanic(DNF)](https://github.com/Hyr1sky/PRML/blob/main/Task%201/Titanic(DNF).ipynb)
+- [Boston(the datasets has been removed since ver 1.2)](https://github.com/Hyr1sky/PRML/blob/main/Task%201/BostonHousePrices(sklearn).py)
 
 ## Conc:
 
