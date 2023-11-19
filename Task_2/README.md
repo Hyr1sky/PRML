@@ -16,8 +16,8 @@ Solving a problem using liner regression models.
 ## Tasks:
 
 This is a multifile program, `p01b_logreg.py` implements Newton's Method to fit the linear regression, and `p01e_gda.py` implements GDA Method.
-- [p01b_logreg.py](https://github.com/Hyr1sky/PRML/blob/main/Task%201/KaggleHousePrice.ipynb)
-- [p01e_gda.py](https://github.com/Hyr1sky/PRML/blob/main/Task%201/Titanic(DNF).ipynb)
+- [p01b_logreg.py](https://github.com/Hyr1sky/PRML/blob/main/Task_2/src/p01b_logreg.py)
+- [p01e_gda.py](https://github.com/Hyr1sky/PRML/blob/main/Task_2/src/p01e_gda.py)
 
 ## Conc:
 
