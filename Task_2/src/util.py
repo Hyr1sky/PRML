@@ -42,7 +42,8 @@ def load_dataset(csv_path, label_col='y', add_intercept=False):
                          .format(label_col, allowed_label_cols))
 
     # Load headers
-    with open(csv_path, 'r') as csv_fh:
+    # abspath = 'D:\VScode WorkStation\PRML\Task 2'
+    with open(csv_path, 'r', errors = 'ignore') as csv_fh:
         headers = csv_fh.readline().strip().split(',')
 
     # Load features and labels
