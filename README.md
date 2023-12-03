@@ -27,3 +27,13 @@ The solutions to each exercise can be found in the following notebooks:
 - **PS1 paperwork:** [PS1.md](https://github.com/Hyr1sky/PRML/blob/main/Task_2/ProblemSet1_Solution.md)
 - **Program 1:** [Newton's Method](https://github.com/Hyr1sky/PRML/blob/main/Task_2/src/p01b_logreg.py)
 - **Program 2:** [GDA Practice](https://github.com/Hyr1sky/PRML/blob/main/Task_2/src/p01e_gda.py)
+
+## Task 3: SpamClassifier
+
+A Spam Classifier built with SVM and Naive Bayes.
+- link to the solution: [Task 3](https://github.com/Hyr1sky/PRML/tree/main/Task_3)
+
+The solutions to each exercise can be found in the following notebooks:
+- **PS1 paperwork:** [PS1.md](https://github.com/Hyr1sky/PRML/blob/main/Task_2/ProblemSet1_Solution.md)
+- **Program 1:** [Newton's Method](https://github.com/Hyr1sky/PRML/blob/main/Task_2/src/p01b_logreg.py)
+- **Program 2:** [GDA Practice](https://github.com/Hyr1sky/PRML/blob/main/Task_2/src/p01e_gda.py)
