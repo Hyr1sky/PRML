@@ -8,6 +8,10 @@ Datasets and problems are mainly from Kaggle.([portal here](https://www.kaggle.c
 
 For each assignments, solutions are provided as a `Ipython Notebook`.
 
+> Lectrue notes are also privided in this repository.\
+> CS229_notes_2022_spring\
+> I also have some notes outlining and deducing that I've done in it.
+
 ## Task 1: Linear Regression
 
 The first task deals with simple models.
